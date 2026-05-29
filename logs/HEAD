@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 78af28d2b0b8e272c1f245130f63b571e667225e Your Name <you@example.com> 1779660826 +0200	commit (initial): first commit
+78af28d2b0b8e272c1f245130f63b571e667225e 0000000000000000000000000000000000000000 Your Name <you@example.com> 1779660887 +0200	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 78af28d2b0b8e272c1f245130f63b571e667225e Your Name <you@example.com> 1779660887 +0200	Branch: renamed refs/heads/master to refs/heads/main
+78af28d2b0b8e272c1f245130f63b571e667225e 0000000000000000000000000000000000000000 Your Name <you@example.com> 1779661324 +0200	Branch: renamed refs/heads/main to refs/heads/main
+78af28d2b0b8e272c1f245130f63b571e667225e 78af28d2b0b8e272c1f245130f63b571e667225e Your Name <you@example.com> 1779661324 +0200	Branch: renamed refs/heads/main to refs/heads/main
+78af28d2b0b8e272c1f245130f63b571e667225e 0000000000000000000000000000000000000000 Your Name <you@example.com> 1779661685 +0200	Branch: renamed refs/heads/main to refs/heads/main
+78af28d2b0b8e272c1f245130f63b571e667225e 78af28d2b0b8e272c1f245130f63b571e667225e Your Name <you@example.com> 1779661685 +0200	Branch: renamed refs/heads/main to refs/heads/main
